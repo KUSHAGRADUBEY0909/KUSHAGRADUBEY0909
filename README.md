@@ -1,17 +1,22 @@
-<div align="center">
+ <div align="center">
 
 # Kushagra Dubey
 
 ### Building practical software with AI, intelligent search & cybersecurity.
 
-Computer Science Engineering student at New Horizon College of Engineering, Bangalore, India.  
+Computer Science Engineering student at New Horizon College of Engineering, Bengaluru, India.
+
 I enjoy solving technical problems and building functional applications that combine software engineering, intelligent retrieval, and security.
 
-[![GitHub](https://img.shields.io/badge/GitHub-KUSHAGRADUBEY0909-181717?style=for-the-badge&logo=github)](https://github.com/KUSHAGRADUBEY0909)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kushagra-dubey-02a1103ab)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagradubey61@gmail.com)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Building+AI-Powered+Applications;Exploring+Semantic+Search+%26+NLP;Interested+in+Cybersecurity+%26+Software+Engineering" alt="Typing animation introducing my technical interests" />
+<a href="https://github.com/KUSHAGRADUBEY0909">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile" />
+</a>
+<a href="https://linkedin.com/in/kushagra-dubey-02a1103ab">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="mailto:kushagradubey61@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
+</a>
 
 </div>
 
@@ -19,16 +24,13 @@ I enjoy solving technical problems and building functional applications that com
 
 ## About Me
 
-I'm a Computer Science Engineering student interested in building useful software and understanding the systems behind it.
+- 🎓 Pursuing a B.E. in Computer Science at New Horizon College of Engineering.
+- 💻 Interested in software development, data structures, algorithms, and database systems.
+- 🤖 Exploring artificial intelligence, machine learning, semantic search, and natural-language processing.
+- 🔐 Building applications focused on cybersecurity and threat analysis.
+- 🛠️ Enjoy developing practical applications with functional interfaces and useful features.
 
-- Developing applications with **Java, Python, and C/C++**.
-- Exploring **AI, machine learning, and natural-language processing**.
-- Working with **semantic search, vector embeddings, and similarity retrieval**.
-- Exploring **cybersecurity, phishing detection, and threat analysis**.
-- Strengthening my understanding of **data structures, algorithms, and database systems**.
-- Building practical applications with graphical interfaces and database integration.
-
-I enjoy projects that turn technical concepts into working applications with clear, useful interfaces.
+I like understanding how technologies work and combining them to solve real-world problems.
 
 ---
 
@@ -40,80 +42,73 @@ I enjoy projects that turn technical concepts into working applications with cle
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp" alt="Java, Python, C and C++" />
 </p>
 
-### Development Tools & Technologies
+### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,python" alt="Git, GitHub, MySQL and Python" />
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,html,css,js,python" alt="Git, GitHub, MySQL, HTML, CSS, JavaScript and Python" />
 </p>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-Embedding_Search-6C5CE7?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0078D4?style=flat-square)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-Threat_Intelligence-394EFF?style=flat-square)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI_Development-3776AB?style=flat-square)
-
-### Computer Science Fundamentals
-
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms
-- Algorithm Design and Problem-Solving
-- Database Management Systems (DBMS)
-- SQL and Database Integration
-- Client-Server Architecture
-
-### Technical Areas
-
-- Semantic Search and Vector Similarity
-- Artificial Intelligence and Machine Learning
-- Cybersecurity and Threat Analysis
-- GUI Application Development
-- Inventory Management Systems
+| Category | Technologies and Concepts |
+|---|---|
+| Programming | Java, Python, C, C++ |
+| Computer Science | OOP, Data Structures, Algorithms, DBMS |
+| AI & Search | Sentence Transformers, FAISS, Semantic Search |
+| Databases | MySQL |
+| Application Development | Streamlit, Tkinter, Java Swing |
+| Cybersecurity | VirusTotal API, URL Analysis, Threat Detection |
+| Tools | Git, GitHub |
 
 ---
 
 ## Featured Projects
 
-### 01. Online Mail Threat Detector & Website Checker
+### 1. Online Mail Threat Detector and Website Checker
 
-A cybersecurity application designed to help analyze emails, links, and websites for potential phishing and malware threats.
+<a href="https://github.com/zscreation69-web/NH-SJC25HACK-CYSEC-027">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Online Mail Threat Detector repository" />
+</a>
 
-**Key features**
-- Integrates VirusTotal threat intelligence for security analysis.
-- Uses Java and Python for threat-analysis functionality.
-- Provides a graphical interface for displaying threat information.
-- Supports identifying potentially malicious links and suspicious patterns.
+A cybersecurity application designed to analyze emails and websites for potential phishing and malicious content.
 
-**Technologies:** `Java` `Python` `VirusTotal API` `GUI Development`
+**Key Features**
+- Integrates VirusTotal API for threat intelligence and URL analysis.
+- Helps identify potentially malicious links and suspicious patterns.
+- Provides a graphical interface for displaying scan results and security recommendations.
+- Combines application development with practical cybersecurity concepts.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/zscreation69-web/NH-SJC25HACK-CYSEC-027)
+**Technologies:** Java, Python, VirusTotal API, Java Swing.
 
-### 02. AI-Powered Mutual Fund Recommendation System
+### 2. AI-Powered Mutual Fund Recommendation System
 
-A semantic-search application that matches natural-language queries with relevant Indian mutual funds using sentence embeddings and vector similarity.
+<a href="https://github.com/KUSHAGRADUBEY0909/83TECHTITANS">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Mutual Fund Recommendation System repository" />
+</a>
 
-**Key features**
+A semantic-search application that helps users find relevant Indian mutual funds using natural-language queries.
+
+**Key Features**
 - Generates text embeddings using Sentence Transformers.
-- Uses FAISS for efficient similarity-based retrieval.
-- Supports natural-language queries beyond exact keyword matching.
-- Provides an interactive interface built with Streamlit.
+- Uses FAISS for efficient vector similarity search.
+- Matches queries based on semantic meaning rather than exact keyword matches alone.
+- Provides an interactive search interface using Streamlit.
 
-**Technologies:** `Python` `Streamlit` `Sentence Transformers` `FAISS` `NLP`
+**Technologies:** Python, Streamlit, Sentence Transformers, FAISS, Pandas.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/KUSHAGRADUBEY0909/83TECHTITANS)
+### 3. Pharmacy Management System
 
-### 03. Pharmacy Management System
+<a href="https://github.com/KUSHAGRADUBEY0909/pharmanew">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Pharmacy Management System repository" />
+</a>
 
-A desktop application for pharmacy inventory management, designed to combine a graphical interface with database-backed stock tracking.
+A desktop application designed to support pharmacy inventory management and medicine tracking.
 
-**Key features**
-- Provides a desktop interface using Tkinter.
-- Integrates MySQL for backend data storage.
+**Key Features**
+- Provides a graphical interface using Tkinter.
+- Integrates MySQL for persistent data storage.
 - Supports medicine searches across multiple branches.
-- Includes inventory-update functionality.
+- Includes inventory update functionality.
 
-**Technologies:** `Python` `Tkinter` `MySQL` `SQL`
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/KUSHAGRADUBEY0909/pharmanew)
+**Technologies:** Python, Tkinter, MySQL.
 
 ---
 
@@ -121,84 +116,91 @@ A desktop application for pharmacy inventory management, designed to combine a g
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KUSHAGRADUBEY0909&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
+<a href="https://github.com/KUSHAGRADUBEY0909">
+  <img src="https://github-readme-stats.vercel.app/api?username=KUSHAGRADUBEY0909&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub profile statistics" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAGRADUBEY0909&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most-used programming languages on GitHub" />
+<a href="https://github.com/KUSHAGRADUBEY0909">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAGRADUBEY0909&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=KUSHAGRADUBEY0909&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<a href="https://github.com/KUSHAGRADUBEY0909">
+  <img src="https://streak-stats.demolab.com?user=KUSHAGRADUBEY0909&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
 </div>
-
-*Statistics are generated by third-party services and may be temporarily unavailable or delayed.*
 
 ---
 
 ## Education
 
-**New Horizon College of Engineering** — Bangalore, India  
-B.E. in Computer Science  
-October 2023 – Present | **CGPA: 8.99**
+### New Horizon College of Engineering
+**Bachelor of Engineering — Computer Science**
 
-**St. John's Marhauli, Varanasi**  
-- Class XII — ISC Board | 2023 | **91.4%**
-- Class X | 2021 | **92.8%**
+- Duration: October 2023 – Present
+- CGPA: 8.99
 
----
+### St. John's Marhauli, Varanasi
 
-## Certifications
-
-| Certification | Provider | Details |
-|---|---|---|
-| Fundamentals of Artificial Intelligence | NPTEL, 2025 | AI concepts, search algorithms, and logic |
-| Introduction to Internet of Things | NPTEL | Internet of Things fundamentals |
-| Fundamentals and Advanced Concepts of DBMS | Scalar | Database schema design, normalization, and advanced SQL |
-
-**Certificate links**
-
-- [Fundamentals of Artificial Intelligence — NPTEL](https://drive.google.com/file/d/1cK9W_vKeRN1nnCFJQSW-Ivmp4OUSso2Z/view?usp=sharing)
-- [Introduction to Internet of Things — NPTEL](https://drive.google.com/file/d/1ev4XzEdaqDWrUwaURmnjhNfS4x9gEBlW/view?usp=sharing)
+- **Class XII — ISC Board:** 91.4% (2023)
+- **Class X:** 92.8% (2021)
 
 ---
 
-## Hackathons & Coding
+## Certifications & Participation
 
-**QuantumX Hackathon**
-- Participated in rapid prototyping and innovative solution development.
+### Certifications
 
-**48-Hour Hackathon — New Horizon College of Engineering**
-- Developed the Online Mail Threat Detector and Website Checker project under time constraints.
-- [Project Repository](https://github.com/zscreation69-web/NH-SJC25HACK-CYSEC-027)
+- **Fundamentals of Artificial Intelligence — NPTEL (2025)**  
+  Covered AI concepts, search algorithms, and logic.  
+  [View Certificate](https://drive.google.com/file/d/1cK9W_vKeRN1nnCFJQSW-Ivmp4OUSso2Z/view?usp=sharing)
 
-**Silver Spectrum Coding Contest**
-- Participated in competitive programming challenges focused on algorithmic problem-solving.
-- [Related Document](https://drive.google.com/file/d/1NO7nzqG2GfTOVIFpU_ADLjKUjhWf91XL/view?usp=sharing)
+- **Introduction to Internet of Things — NPTEL (2025)**  
+  [View Certificate](https://drive.google.com/file/d/1ev4XzEdaqDWrUwaURmnjhNfS4x9gEBlW/view?usp=sharing)
+
+- **Fundamentals and Advanced Concepts of DBMS — Scalar**  
+  Covered database schema design, normalization, and advanced SQL queries.
+
+### Hackathons & Coding
+
+- **QuantumX Hackathon (2025)** — Participated in rapid prototyping and solution development.
+- **48-Hour Hackathon — New Horizon College of Engineering (April 2025)** — Developed the Online Mail Threat Detector project. [View Repository](https://github.com/zscreation69-web/NH-SJC25HACK-CYSEC-027)
+- **Silver Spectrum Coding Contest** — Participated in competitive programming challenges. [View Related Document](https://drive.google.com/file/d/1NO7nzqG2GfTOVIFpU_ADLjKUjhWf91XL/view?usp=sharing)
 
 ---
 
 ## Currently Exploring
 
-- Writing cleaner, more maintainable Java and Python applications.
-- Improving problem-solving skills through data structures and algorithms.
-- Understanding embeddings, semantic retrieval, and vector search.
-- Exploring practical applications of cybersecurity and threat intelligence.
-- Strengthening database design and SQL fundamentals.
+- Writing efficient and maintainable code.
+- Strengthening Data Structures and Algorithms.
+- Building AI-powered applications and semantic retrieval systems.
+- Exploring cybersecurity tools and threat analysis.
+- Improving database design and application architecture.
 
 ---
 
 ## Let's Connect
 
-I'm open to connecting with fellow developers, discussing technical projects, and exploring opportunities to learn and build together.
+I'm open to connecting with developers, discussing technical ideas, and exploring software engineering opportunities.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github)](https://github.com/KUSHAGRADUBEY0909)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kushagra-dubey-02a1103ab)
+<a href="https://github.com/KUSHAGRADUBEY0909">
+  <img src="https://img.shields.io/badge/GitHub-KUSHAGRADUBEY0909-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://linkedin.com/in/kushagra-dubey-02a1103ab">
+  <img src="https://img.shields.io/badge/LinkedIn-My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+<a href="mailto:kushagradubey61@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kushagradubey61%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-kushagradubey61%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kushagradubey61@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209555048410-2E8B57?style=flat-square&logo=phone&logoColor=white)](tel:+919555048410)
+</div>
 
 ---
 
-*Building, learning, and improving — one project at a time.*
+<div align="center">
+
+*Building, learning, and improving one project at a time.*
 
 </div>
