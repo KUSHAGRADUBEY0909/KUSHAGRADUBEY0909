@@ -14,9 +14,6 @@ I enjoy solving technical problems and building functional applications that com
 <a href="https://linkedin.com/in/kushagra-dubey-02a1103ab">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-<a href="mailto:kushagradubey61@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
-</a>
 
 </div>
 
@@ -64,9 +61,7 @@ I like understanding how technologies work and combining them to solve real-worl
 
 ### 1. Online Mail Threat Detector and Website Checker
 
-<a href="https://github.com/zscreation69-web/NH-SJC25HACK-CYSEC-027">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Online Mail Threat Detector repository" />
-</a>
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zscreation69-web/NH-SJC25HACK-CYSEC-027)
 
 A cybersecurity application designed to analyze emails and websites for potential phishing and malicious content.
 
@@ -80,9 +75,7 @@ A cybersecurity application designed to analyze emails and websites for potentia
 
 ### 2. AI-Powered Mutual Fund Recommendation System
 
-<a href="https://github.com/KUSHAGRADUBEY0909/83TECHTITANS">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Mutual Fund Recommendation System repository" />
-</a>
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KUSHAGRADUBEY0909/83TECHTITANS)
 
 A semantic-search application that helps users find relevant Indian mutual funds using natural-language queries.
 
@@ -96,9 +89,7 @@ A semantic-search application that helps users find relevant Indian mutual funds
 
 ### 3. Pharmacy Management System
 
-<a href="https://github.com/KUSHAGRADUBEY0909/pharmanew">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Pharmacy Management System repository" />
-</a>
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KUSHAGRADUBEY0909/pharmanew)
 
 A desktop application designed to support pharmacy inventory management and medicine tracking.
 
@@ -181,18 +172,26 @@ A desktop application designed to support pharmacy inventory management and medi
 
 ## Let's Connect
 
-I'm open to connecting with developers, discussing technical ideas, and exploring software engineering opportunities.
+I'm open to discussing software engineering opportunities, technical ideas, and collaborative projects.
 
 <div align="center">
 
-<a href="https://github.com/KUSHAGRADUBEY0909">
-  <img src="https://img.shields.io/badge/GitHub-KUSHAGRADUBEY0909-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://linkedin.com/in/kushagra-dubey-02a1103ab">
-  <img src="https://img.shields.io/badge/LinkedIn-My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-</a>
+**Email**
+
 <a href="mailto:kushagradubey61@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kushagradubey61%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+  <img src="https://img.shields.io/badge/Email-kushagradubey61%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kushagra Dubey" />
+</a>
+
+**Phone**
+
+<a href="tel:+919555048410">
+  <img src="https://img.shields.io/badge/Phone-%2B91%209555048410-2E8B57?style=for-the-badge&logo=phonepe&logoColor=white" alt="Call Kushagra Dubey" />
+</a>
+
+**GitHub**
+
+<a href="https://github.com/KUSHAGRADUBEY0909">
+  <img src="https://img.shields.io/badge/GitHub-View%20My%20Repositories-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
 </a>
 
 </div>
