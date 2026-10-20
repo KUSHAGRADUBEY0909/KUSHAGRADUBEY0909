@@ -182,11 +182,7 @@ I'm open to discussing software engineering opportunities, technical ideas, and 
   <img src="https://img.shields.io/badge/Email-kushagradubey61%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kushagra Dubey" />
 </a>
 
-**Phone**
 
-<a href="tel:+919555048410">
-  <img src="https://img.shields.io/badge/Phone-%2B91%209555048410-2E8B57?style=for-the-badge&logo=phonepe&logoColor=white" alt="Call Kushagra Dubey" />
-</a>
 
 **GitHub**
 
